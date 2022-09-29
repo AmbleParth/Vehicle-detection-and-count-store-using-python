@@ -1,0 +1,12 @@
+
+***************PROGRAM STARTS***************
+Total number of cars counted:5
+****************PROGRAM ENDS****************
+***************PROGRAM STARTS***************
+Total number of cars counted:3
+****************PROGRAM ENDS****************
+
+***************PROGRAM STARTS***************
+Total number of cars counted:5
+****************PROGRAM ENDS****************
+
